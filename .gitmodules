@@ -8,3 +8,6 @@
 [submodule "JointFPM"]
 	path = JointFPM
 	url = https://github.com/entjos/jointfpm
+[submodule "TreeMineR"]
+	path = TreeMineR
+	url = https://github.com/entjos/treeminer
